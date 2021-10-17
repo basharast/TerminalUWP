@@ -22,4 +22,5 @@
 # Build
 
 It will work with build 16299 and above
+
 For Windows Phone users (if you still have one) it will work on build 1709 (15254) only
