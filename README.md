@@ -19,8 +19,16 @@
 - Bugs fixes (including font issue)
 
 
-# Build
+# Target
 
 It will work with build 16299 and above
 
 For Windows Phone users (if you still have one) it will work on build 1709 (15254) only
+
+# Credits
+
+Developed by Darren R. Starr
+
+App logo by Martin Anderson
+
+Enhanced by Bashar Astifan
