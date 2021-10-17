@@ -1,0 +1,2 @@
+MainPackage=B:\TerminalEmulatorUWP\Win2DTerm\bin\ARM\Release\Win2DTerm_1.0.0.0_ARM.appx
+SymbolPackage=B:\TerminalEmulatorUWP\Win2DTerm\obj\ARM\Release\Symbols\Win2DTerm_1.0.0.0_ARM.appxsym

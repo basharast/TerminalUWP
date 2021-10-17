@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TerminalEmulator.Unit.Tests
+build_property.ProjectDir = B:\TerminalEmulatorUWP\TerminalEmulator.Unit.Tests\
