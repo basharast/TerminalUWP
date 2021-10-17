@@ -1,11 +1,11 @@
 <p align="center">
   <img src="assets/logo.png" width="176"><br>
   <b>Enhanced terminal emulator (UWP) based on TerminalEmulatorUWP by Darren R. Starr</b><br>
-  <a href="./src">Source Code</a> |
-  <a href="./src/3rdparty/SSH.NET">Third party libraries</a> |
+  <a href="./src">Source</a> |
+  <a href="./src/3rdparty/SSH.NET">Libraries</a> |
   <a href="https://github.com/darrenstarr/TerminalEmulatorUWP">Original Project</a> 
   <br><br>
-  <img src="assets/screen.png"><br><br>
+  <img src="assets/screen.jpg"><br><br>
 </p>
 
 
