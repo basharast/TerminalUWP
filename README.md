@@ -21,7 +21,7 @@
 
 # Target
 
-It will work with build 16299 and above
+It will work with build 16299 and above, ARM - x64 - x86
 
 For Windows Phone users (if you still have one) it will work on build 1709 (15254) only
 
